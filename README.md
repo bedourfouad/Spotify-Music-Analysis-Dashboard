@@ -18,6 +18,6 @@ This project offers an in-depth analysis of Spotify's music streaming data using
 ![Screenshot 2024-09-11 142102](https://github.com/user-attachments/assets/1fa8fabc-e8f1-4624-96f0-620bb9b62297)
 
 ## How to Use
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/Spotify-Music-Analysis.git
+Watch this video demonstration to see the dashboard in action, which walks you through the key visuals and explains how to interact with the Power BI dashboard.
+
+[Link to Video]
