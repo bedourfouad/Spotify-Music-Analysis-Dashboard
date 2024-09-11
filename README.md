@@ -18,6 +18,6 @@ This project offers an in-depth analysis of Spotify's music streaming data using
 ![Screenshot 2024-09-11 142102](https://github.com/user-attachments/assets/1fa8fabc-e8f1-4624-96f0-620bb9b62297)
 
 ## How to Use
-Watch this video demonstration to see the dashboard in action, which walks you through the key visuals and explains how to interact with the Power BI dashboard.
+I'd like you to please watch this video demonstration to see the dashboard in action, which walks you through the key visuals and explains how to interact with the Power BI dashboard.
 
-[Link to Video]
+[SPOTIFY MUSIC ANALYSIS.webm](https://github.com/user-attachments/assets/0ca3946e-8512-4a6f-a15a-0d1f28a1c74f)
