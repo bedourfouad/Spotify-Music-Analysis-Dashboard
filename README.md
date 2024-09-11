@@ -15,7 +15,7 @@ This project offers an in-depth analysis of Spotify's music streaming data using
 
 ## Visuals
 ### Dashboard Example:
-![Spotify Music Analysis Dashboard](path_to_image)
+![Screenshot 2024-09-11 142102](https://github.com/user-attachments/assets/1fa8fabc-e8f1-4624-96f0-620bb9b62297)
 
 ## How to Use
 1. Clone the repository to your local machine:
